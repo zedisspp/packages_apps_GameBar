@@ -1,4 +1,5 @@
 app_domain(gamebar_app)
+typeattribute gamebar_app coredomain;
 binder_use(gamebar_app)
 
 allow gamebar_app {
